@@ -1,5 +1,10 @@
-My Name is salman Rizky
-Currently i'm studies at padang state university
+### Hi there 👋 I'm Salman Rizky
+
+I'm a **Frontend Web Developer** with strong interest in building responsive, user-focused web applications using **React.js**, **Tailwind CSS**, and modern JavaScript frameworks. Currently pursuing a Bachelor's degree in **Informatics Engineering** at **Padang State University**, while actively contributing to real-world projects and internships.
+
+🔭 I have experience developing with **MERN stack**, integrating **REST APIs**, deploying with **Vercel**, and collaborating in remote teams using tools like GitHub, Figma, and Miro.
+
+🚀 Passionate about UI/UX, performance optimization, and clean component-based architecture.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/salmanrizky.rizky.3?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/codew1thme/profilecard/?igsh=ajlhdXhjOWYwazYw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Salman Rizky) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Rakyat Semesta) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Salman Rizky) 
