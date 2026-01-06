@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Salman Rizky
 
-I'm a `Frontend Web Developer` with strong interest in building responsive, user-focused web applications using **React.js**, **Tailwind CSS**, and modern ![JavaScript frameworks]. Currently pursuing a Bachelor's degree in **Informatics Engineering** at **Padang State University**, while actively contributing to real-world projects and internships.
+I'm a `Front end Web Developer` with strong interest in building responsive, user-focused web applications using **React.js**, **Tailwind CSS**, and modern ![JavaScript frameworks]. Currently pursuing a Bachelor's degree in **Informatics Engineering** at **Padang State University**, while actively contributing to real-world projects and internships.
 
 🔭 I have experience developing with **MERN stack**, integrating **REST APIs**, deploying with **Vercel**, and collaborating in remote teams using tools like GitHub, Figma, and Miro.
 
